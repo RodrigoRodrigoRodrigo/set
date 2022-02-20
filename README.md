@@ -45,3 +45,5 @@ public class Program {
 	}
 
 }
+
+![set-exercicio-de-fixação-FOTO](https://user-images.githubusercontent.com/61166475/154861817-a2f3da57-cb57-490d-9a7c-7da31ed034fd.png)
